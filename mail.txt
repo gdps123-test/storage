@@ -1,1 +1,11 @@
-{ "users": [] }
+{
+    "users":  [
+                  {
+                      "username":  "kamol",
+                      "email":  "kamol@example.com",
+                      "inbox":  [
+
+                                ]
+                  }
+              ]
+}
