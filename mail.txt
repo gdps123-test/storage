@@ -4,7 +4,13 @@
                       "username":  "kamol",
                       "email":  "kamol@example.com",
                       "inbox":  [
-
+                                    {
+                                        "subject":  "heya",
+                                        "from":  "kamol",
+                                        "body":  "fuk u",
+                                        "id":  "2255f4f8-4137-4703-a01e-6241a90c45ce",
+                                        "timestamp":  "2025-03-14T12:40:41Z"
+                                    }
                                 ]
                   }
               ]
