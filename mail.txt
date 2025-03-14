@@ -18,7 +18,13 @@
                       "username":  "ggg",
                       "email":  "ggg@example.com",
                       "inbox":  [
-
+                                    {
+                                        "subject":  "ggg",
+                                        "from":  "ggg",
+                                        "body":  "aa",
+                                        "id":  "b2089e04-7faf-47bb-ba2b-8afb23e31508",
+                                        "timestamp":  "2025-03-14T14:09:37Z"
+                                    }
                                 ]
                   }
               ]
