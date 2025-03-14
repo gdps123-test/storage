@@ -1,6 +1,12 @@
 {
     "version":  "V1",
     "users":  [
+                  {
+                      "username":  "abcde",
+                      "email":  "abcde@example.com",
+                      "inbox":  [
 
+                                ]
+                  }
               ]
 }
