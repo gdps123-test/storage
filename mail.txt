@@ -12,6 +12,19 @@
                                         "timestamp":  "2025-03-14T12:40:41Z"
                                     }
                                 ]
+                  },
+                  {
+                      "username":  "jen",
+                      "email":  "jen@example.com",
+                      "inbox":  [
+                                    {
+                                        "subject":  "a",
+                                        "from":  "kamol",
+                                        "body":  "a",
+                                        "id":  "fe29faf6-1db8-48be-bede-4c1fd4868d3c",
+                                        "timestamp":  "2025-03-14T12:40:57Z"
+                                    }
+                                ]
                   }
               ]
 }
