@@ -5,7 +5,13 @@
                       "username":  "abcde",
                       "email":  "abcde@example.com",
                       "inbox":  [
-
+                                    {
+                                        "subject":  "gyatt",
+                                        "from":  "abcde",
+                                        "body":  "oh-daddy",
+                                        "id":  "bbc75b6a-59fe-4c8c-a3e4-cf570e466365",
+                                        "timestamp":  "2025-03-14T14:08:31Z"
+                                    }
                                 ]
                   }
               ]
