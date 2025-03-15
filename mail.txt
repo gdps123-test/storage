@@ -38,7 +38,13 @@
                       "username":  "7756dev",
                       "email":  "7756dev@example.com",
                       "inbox":  [
-
+                                    {
+                                        "subject":  "heya!",
+                                        "from":  "7756dev",
+                                        "body":  "hi!\r\nhows ur trip\r\nthis is a test\r\n:\u003e me",
+                                        "id":  "928227a7-8b5a-43ed-b161-061ec71aa6b1",
+                                        "timestamp":  "2025-03-15T12:40:29Z"
+                                    }
                                 ]
                   }
               ]
